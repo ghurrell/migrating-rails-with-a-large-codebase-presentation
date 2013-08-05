@@ -6,7 +6,7 @@ Slides for a presentation given by Greg Hurrell and Adam Derewecki at the July
 - presentation video:
   http://www.youtube.com/watch?v=qgCM2bca49w
 - interactive copy of slides:
-  http://wincent.github.com/migrating-rails-with-a-large-codebase-presentation
+  http://wincent.github.io/migrating-rails-with-a-large-codebase-presentation
 - me:
   greg@causes.com
 - us:
